@@ -3,8 +3,9 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 6,
-			"minor" : 0,
-			"revision" : 8
+			"minor" : 1,
+			"revision" : 4,
+			"architecture" : "x86"
 		}
 ,
 		"rect" : [ 73.0, 44.0, 970.0, 758.0 ],
@@ -158,8 +159,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 142.75, 320.0, 126.0, 18.0 ],
-					"text" : "pull_from_coll #0_coll"
+					"patching_rect" : [ 142.75, 320.0, 158.0, 18.0 ],
+					"text" : "clear, pull_from_coll #0_coll"
 				}
 
 			}
